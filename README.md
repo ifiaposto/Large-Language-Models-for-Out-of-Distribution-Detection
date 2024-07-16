@@ -1,6 +1,13 @@
 # Large-Language-Models-for-Out-of-Distribution-Detection
 
-## Papers
+---
+
+## Table of Contents
+- [Papers](#papers)
+
+---
+
+# Papers
 
   
 * [ICML, 2024] [Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection.](https://arxiv.org/pdf/2406.00806) by Cao C, Zhong Z, Zhou Z, Liu Y, Liu T, Han B.
