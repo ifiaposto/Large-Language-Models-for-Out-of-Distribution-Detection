@@ -1,0 +1,8 @@
+# Large-Language-Models-for-Out-of-Distribution-Detection
+
+
+* How Good Are LLMs at Out-of-Distribution Detection? Liu B, Zhan LM, Lu Z, Feng Y, Xue L, Wu XM. ([LREC-COLING 2024, 2024](https://arxiv.org/abs/2308.10261)).
+  
+* Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection. Cao C, Zhong Z, Zhou Z, Liu Y, Liu T, Han B. ([ICML, 2024](https://arxiv.org/pdf/2406.00806)).
+
+* Out-of-distribution detection and selective generation for conditional language models. Ren J, Luo J, Zhao Y, Krishna K, Saleh M, Lakshminarayanan B, Liu PJ. ([ICLR, 2023](https://arxiv.org/pdf/2209.15558))
