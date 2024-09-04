@@ -8,8 +8,8 @@
 ---
 
 # Papers
+* [arxiv, 2024 ][Large Language Models for Forecasting and Anomaly Detection: A Systematic Literature Review] (https://arxiv.org/pdf/2402.10350) by J.Su et. al
 
-  
 * [ICML, 2024] [Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection.](https://arxiv.org/pdf/2406.00806) by Cao C, Zhong Z, Zhou Z, Liu Y, Liu T, Han B.
   
 * [LREC-COLING, 2024] [How Good Are LLMs at Out-of-Distribution Detection?](https://arxiv.org/abs/2308.10261) by Liu B, Zhan LM, Lu Z, Feng Y, Xue L, Wu XM.
